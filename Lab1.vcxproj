@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClInclude Include="Base.h" />
     <ClInclude Include="Car.h" />
+    <ClInclude Include="Exception.h" />
     <ClInclude Include="Furniture.h" />
     <ClInclude Include="Keeper.h" />
     <ClInclude Include="Worker.h" />
